@@ -1,0 +1,7 @@
+fun main() {
+    val nombreUsuario = "Narvagas"
+    val correoElectronico = "cristyan.gasca@gmail.com"
+    
+    println("Nombre de usuario: $nombreUsuario")
+    println("Correo electrónico: $correoElectronico")
+}
